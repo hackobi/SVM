@@ -39,6 +39,10 @@ Less effective with noisy data sets with overlapping classes
 
 ## How to run
 
+
+The code is python, run on your IDE of preference for convenience I saved it as a Jupyter notebook and it's broken down as follows:
+
+
 ### Import the libraries and the dataset
 
 Preprocess accordingly
