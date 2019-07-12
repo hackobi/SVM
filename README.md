@@ -32,9 +32,9 @@ Less effective with noisy data sets with overlapping classes
 
 ## Dependencies
 
-Numpy
-Matplotlib
-pandas
+* Numpy
+* Matplotlib
+* Pandas
 
 
 ## How to run
@@ -47,9 +47,6 @@ Preprocess accordingly
 
 Feature Scale the sets
 
-```
-Give an example
-```
 
 ### And coding style tests
 
@@ -80,6 +77,3 @@ These are good sources for having a look further into the maths of SVMs
 * [Standford CSS229 Lecture Notes (http://cs229.stanford.edu/notes/cs229-notes3.pdf/) - by Andrew NG
 * [A Support Vector Machine in just a few Lines of Python Code](https://github.com/MaviccPRP/svm/blob/master/svm-primal.ipynb/) - A Support Vector Machine in just a few Lines of Python Code - by MaviccPRP
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
